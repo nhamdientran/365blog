@@ -1,0 +1,11 @@
+.post-date{
+    display: block;
+    background:#f4f4f4;
+    padding: 4px;
+    margin: 3px 0;
+}
+
+.post-thumb{
+    width:100%;
+}
+
